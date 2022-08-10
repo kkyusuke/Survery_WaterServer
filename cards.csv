@@ -1,0 +1,9 @@
+,Hot,Cold,Soda,Brand,Disposal,Price,InitialFee
+a,NotHot,NoCold,No Soda,NonBrand,Disposal,5000,NonInitialFee
+b,Hot,Cold,No Soda,Brand,Non disposal,5000,NonInitialFee
+c,Hot,NoCold,Soda,Brand,Disposal,8000,NonInitialFee
+d,NotHot,Cold,Soda,NonBrand,Non disposal,8000,NonInitialFee
+e,NotHot,Cold,Soda,Brand,Disposal,5000,InitialFee
+f,Hot,NoCold,Soda,NonBrand,Non disposal,5000,InitialFee
+g,Hot,Cold,No Soda,NonBrand,Disposal,8000,InitialFee
+h,NotHot,NoCold,No Soda,Brand,Non disposal,8000,InitialFee
