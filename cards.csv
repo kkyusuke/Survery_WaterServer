@@ -1,9 +1,9 @@
 ,Hot,Cold,Soda,Brand,Disposal,Price,InitialFee
 a,NotHot,NoCold,No Soda,NonBrand,Disposal,5000yen,NonInitialFee
-b,Hot,Cold,No Soda,Brand,Non disposal,5000yen,NonInitialFee
+b,Hot,Cold,No Soda,Brand,Nondisposal,5000yen,NonInitialFee
 c,Hot,NoCold,Soda,Brand,Disposal,8000yen,NonInitialFee
-d,NotHot,Cold,Soda,NonBrand,Non disposal,8000yen,NonInitialFee
+d,NotHot,Cold,Soda,NonBrand,Nondisposal,8000yen,NonInitialFee
 e,NotHot,Cold,Soda,Brand,Disposal,5000yen,InitialFee
-f,Hot,NoCold,Soda,NonBrand,Non disposal,5000yen,InitialFee
+f,Hot,NoCold,Soda,NonBrand,Nondisposal,5000yen,InitialFee
 g,Hot,Cold,No Soda,NonBrand,Disposal,8000yen,InitialFee
-h,NotHot,NoCold,No Soda,Brand,Non disposal,8000yen,InitialFee
+h,NotHot,NoCold,No Soda,Brand,Nondisposal,8000yen,InitialFee
